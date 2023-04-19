@@ -1,0 +1,2 @@
+$('#tablafiles').DataTable();
+alert("HOLA");

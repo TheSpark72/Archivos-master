@@ -1,0 +1,117 @@
+.centrar{
+	margin-left: 25%;
+	margin-top: 2%;
+	border-radius: 60px;
+}
+
+.datos{
+	margin-top: 3%;
+	margin-left: 25%;
+}
+.btnR{
+	background: #fff;
+	padding-top: 5px;
+	border: solid gray 2px;
+	border-radius: 5px;
+	
+}
+.btn14{
+	position: relative;
+	padding: 10px 15px;
+	border: none;
+	outline: none;
+	background: green;
+	color: white;
+	cursor: pointer;
+	transition: .5s;
+	border:  solid black 2px;
+	padding: 8px;
+	margin-left: 40%;
+	margin-right: 40%;
+	border-radius: 8px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.btn14:hover{
+	color: #fff;
+	background: blue;
+	border:  solid orangered 2px;
+}
+body{
+	min-width: 100vh;
+	min-height: 100vh;
+}
+
+.btn13{
+	position: relative;
+	padding: 10px 15px;
+	border: none;
+	outline: none;
+	background: orangered;
+	color: white;
+	cursor: pointer;
+	transition: .5s;
+	border:  solid black 2px;
+	padding: 8px;
+	margin-left: 30%;
+	margin-right: 40%;
+	border-radius: 8px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.btn13:hover{
+	color: #fff;
+	background: black;
+	border:  solid orangered 2px;
+}
+
+.conten{
+	color: #fff;
+}
+.contentimg{
+
+	background: green;
+	position: fixed;
+	width: 400px;
+	height: 500px;
+	margin-left: 50px;
+	padding-left: 0px;
+}
+
+.imgneed{
+	width: 450px;
+	height: 500px;
+
+}
+.contenform{
+	margin-left: 450px;
+}
+
+.divgeneral{
+	width: 100%;
+	height: 520px;
+	margin: auto;
+	padding: 0px;
+}
+
+.content1{
+	float: left;
+	margin-left: 20px;
+	width: 450px;
+	height: 500px;
+	
+}
+.content2{
+	margin-left: 20px;
+	float: left;
+	position: relative;
+	width: 700px;
+	height: 400px;
+	
+}
+.content3{
+	position: relative;
+	margin-left: 20px;
+	float: left;
+	width: 456px;
+	height: 300px;
+	
+}
